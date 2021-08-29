@@ -98,4 +98,4 @@ This is a human-readable summary of (and not a substitute for) the license below
 
 # 许可
 
-以上文字来源于知识共享（https://creativecommons.org/licenses/by-nc-sa/3.0/cn/]https://creativecommons.org/licenses/by-nc-sa/3.0/cn/ 和 https://creativecommons.org/licenses/by-nc-sa/3.0/cn/legalcode]https://creativecommons.org/licenses/by-nc-sa/3.0/cn/legalcode），使用[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) 授权。有改动。
+以上文字来源于知识共享（[https://creativecommons.org/licenses/by-nc-sa/3.0/cn/](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/) 和 [https://creativecommons.org/licenses/by-nc-sa/3.0/cn/legalcode](https://creativecommons.org/licenses/by-nc-sa/3.0/cn/legalcode)），使用 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 授权。有改动。
